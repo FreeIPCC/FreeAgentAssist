@@ -21,7 +21,8 @@ http://118.25.192.13:8822/cc
 2，工单：(demo/123456)
 http://118.25.192.13:80
 
-## 开发语言：Java Python为主
+## 开发语言：Java,Vue,Python,SpringBoot！
+业务模块Java为主；智能模块Python为主。
 
 ## 开源呼叫中心系统FreeIPCC的愿景与基础功能阐述
 愿景：
