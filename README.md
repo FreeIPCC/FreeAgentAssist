@@ -62,7 +62,7 @@ http://118.25.192.13:80
 Call center, call center system, telephony system, customer service system, work order system, intelligent outbound calling, intelligent outbound calling system, call center system, artificial intelligence, inbound robot, large model robot, intelligent outbound phone calls, open-source call center system, outbound phone calls, customer service center, online customer service, large model, open-source call center system!!!
 
 日语
-コールセンター、コールセンターシステム、電話システム、カスタマーサービスシステム、作業指示システム、インテリジェントアウトバウンド、インテリジェントアウトバウンドシステム、コールセンターシステム、人工知能、インバウンドロボット、大型モデルロボット、インテリジェントアウトバウンド通話、オープンソースコールセンターシステム、アウトバウンド通話、カスタマーサービスセンター、オンラインカスタマーサービス、大型モデル、オープンソースコールセンターシステム！！！
+コールセンター、コールセンターシステム、電話システム、カスタマーサービスシステム、作業指示システム、インテリジェントアウトバウンド、インテリジェントアウトバウンドシステム、コールセンターシステム、人工知能、インバウンドロボット、大型モデルロボット、インテリジェントアウトバウンド通話、オープンソースコールセンターシステム、アウトバウンド通話、カスタマーサービスセンター、オンラインカスタマーサービス、大型モデル、オープンソースコールセンターシステム！
 
 葡萄牙语
 Call center, sistema de call center, sistema de telefonia, sistema de atendimento ao cliente, sistema de trabalho, chamada inteligente saída, sistema de chamada inteligente saída, sistema de call center, inteligência artificial, robô de entrada, robô de grande modelo, chamada telefônica inteligente saída, sistema de call center open-source, chamada telefônica saída, centro de atendimento, atendimento online, grande modelo, sistema de call center open-source!!!
