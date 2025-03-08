@@ -1,5 +1,5 @@
 # FreeAgentAssist坐席辅助
-坐席辅助，智能辅助，电话辅助，Free Agent Assist, 辅助,坐席辅助机器人，Call Center, Contact Center,AI,LLM,TTS,ASR,RAG,呼叫中心，大模型，人工智能，联络中心,Robot,large model robot,LLM，LangChain!!!!!!!!!!!
+坐席辅助，智能辅助，电话辅助，Free Agent Assist, 辅助,坐席辅助机器人，Call Center, Contact Center,AI,LLM,TTS,ASR,RAG,呼叫中心，大模型，人工智能，联络中心,Robot,large model robot,LLM，LangChain!!!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
