@@ -60,11 +60,6 @@ http://124.220.48.38:80
 ![image](https://github.com/user-attachments/assets/5c3f7012-629a-4f4f-a5cf-f4ce72b9a095)
 ![image](https://github.com/user-attachments/assets/ecd3785c-499b-4c62-abea-eba066dd6daa)
 
-## 😄客户专属群支持小组的人员数量：10人左右
-下图是随机抽取的复制支持的群：
-![image](https://github.com/user-attachments/assets/5d0504ec-3986-47fc-a510-6b2e8767fb47)
-![image](https://github.com/user-attachments/assets/cb0990dc-0c2e-4364-8d08-a8f3437e1702)
-
 ## 😄用户专属群支持小组的群人员数量：10人左右，响应更及时
 
 下图是随机抽取的需求对接的群：
