@@ -1,5 +1,5 @@
 # FreeAgentAssist坐席辅助
-坐席辅助，智能辅助，电话辅助，Free Agent Assist, 辅助,坐席辅助机器人，Call Center, Contact Center,AI,LLM,TTS,ASR,RAG,呼叫中心，大模型，人工智能，联络中心,Robot,large model robot,LLM，LangChain!!!!!!!!
+坐席辅助，智能辅助，电话辅助，Free Agent Assist, 辅助,坐席辅助机器人，Call Center, Contact Center,AI,LLM,TTS,ASR,RAG,呼叫中心，大模型，人工智能，联络中心,Robot,large model robot,LLM，LangChain!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 
@@ -31,7 +31,7 @@
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
-## 2025.07.05新demo链接enjoy😄：
+## 2025.07.07新demo链接enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
